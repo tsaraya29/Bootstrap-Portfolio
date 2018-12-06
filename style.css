@@ -1,0 +1,74 @@
+
+/*Thistle Theme*/
+
+
+.container {
+    background-color: #fcfcfc;
+    width: 768px;
+    
+}
+
+body {
+    background-color: thistle;
+}
+
+
+.about {
+    padding: 20px;
+}
+.thistle {
+    background-color: #fcfcfc; 
+    margin-bottom: 25px; border-bottom: solid 2px gray; 
+    line-height: 44px;
+    
+}
+
+.navbar-nav li:not(:last-child) {
+   border-right: solid 1px lightgray; 
+   border-top: -5px;
+       
+}
+hr {
+    border: solid 1.5px lightgray;
+    
+}
+
+ h2{
+    color: #8B4789;
+}
+h1 {
+    background-color: #8B4789;
+    color: #fcfcfc;
+    padding: 5px;
+
+}
+.navbar-brand h1 {
+    font-family: 'Text Me One', sans-serif;
+}
+
+.main-container {
+    padding: 20px;
+    
+}
+
+img {
+    margin: 0px 5px 0px 5px;
+    
+}
+
+.thumbnail {
+    padding-bottom: 20px;
+}
+
+.button{
+    color: #fcfcfc;
+    background-color: #8B4789;
+}
+
+footer{
+    background-color: #fcfcfc;
+    text-align: center;
+    margin-top: 20px;
+    color: #8B4789;
+
+}
